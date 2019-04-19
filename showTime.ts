@@ -1,0 +1,1 @@
+const time1:string = '';
